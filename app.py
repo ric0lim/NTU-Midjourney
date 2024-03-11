@@ -12,7 +12,7 @@ import os
 
 os.environ["REPLICATE_API_TOKEN"]="r8_BqPGfl4lLuLiVONdbTnhBCTiwVnf5PH3drGxK"
 
-palm.configure(api_key="AIzaSyCCT1K99BJ1JbLwhCE7qOcQ5KOZcPJ9ZZ4")
+palm.configure(api_key="AIzaSyBOZtrvZoNYwE-Qc6nDimb0LFUyoURLWKQ")
 defaults = { 'model': "models/chat-bison-001"}
 
 app = Flask(__name__)
